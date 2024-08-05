@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+    color: #fff;
+}
+
+header .navbar-brand {
+    color: #fff;
+}
+
+header .navbar-nav > li > a {
+    color: #fff;
+}
+
+header .navbar-nav > li > a:hover {
+    color: #f8f9fa;
+}
+
+section {
+    padding: 50px 0;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #343a40;
+    color: #fff;
+}
